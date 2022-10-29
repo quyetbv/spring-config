@@ -1,0 +1,4 @@
+name: app
+database:
+  name: dev_name
+  password: dev_password

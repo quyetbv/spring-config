@@ -1,0 +1,4 @@
+name: app
+database:
+  name: prod_name
+  password: prod_password

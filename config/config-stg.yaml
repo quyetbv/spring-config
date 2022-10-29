@@ -1,0 +1,4 @@
+name: app
+database:
+  name: stg_name
+  password: stg_password
